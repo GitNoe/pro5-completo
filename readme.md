@@ -10,4 +10,4 @@
    - características de los elementos
    - copiando parte del menu y los iconos (html y css)
 5. JS:
-   - script para que se muestre la segunda pantalla - mediante change
+   - script para que se muestre la segunda pantalla - change
